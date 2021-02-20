@@ -1,0 +1,6 @@
+{
+    "nombre" : "eliud",
+    "edad" : 22,
+    "cedula" : 231311313,
+    "amigos" : ["juan", "miguel"]
+}
